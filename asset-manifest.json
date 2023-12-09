@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ray_portfolio/static/css/main.fe927caf.css",
+    "main.js": "/ray_portfolio/static/js/main.ca8cf17a.js",
+    "static/js/787.4b24f717.chunk.js": "/ray_portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/profile_pic.png": "/ray_portfolio/static/media/profile_pic.f567e93058801d5ba635.png",
+    "index.html": "/ray_portfolio/index.html",
+    "main.fe927caf.css.map": "/ray_portfolio/static/css/main.fe927caf.css.map",
+    "main.ca8cf17a.js.map": "/ray_portfolio/static/js/main.ca8cf17a.js.map",
+    "787.4b24f717.chunk.js.map": "/ray_portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.ca8cf17a.js"
+  ]
+}
